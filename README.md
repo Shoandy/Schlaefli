@@ -1,8 +1,8 @@
 # Schlaefli
 
-Computation of the Schläfli function
+COMPUTATION OF THE SCHLÄFLI FUNCTION
 
-FILES DESCRIPTION: 
+Files description: 
 
 qn.f90 Fortran program computes qn(x) for x in [n-1,n+1] and n = 4,5,...,10000 
 with quadruple precision.
